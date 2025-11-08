@@ -1,4 +1,4 @@
-# ✈️ Flight Price Prediction
+# ✈️  Predict Fare for Airline Tickets
 
 This project predicts the price of airline tickets based on various flight features using Machine Learning techniques.
 
